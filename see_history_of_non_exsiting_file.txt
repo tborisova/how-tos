@@ -1,0 +1,6 @@
+git log --follow file_path - old file is renamed
+git checkout <deleting_commit>^ -- <file_path> old file is deleted
+
+
+git rev-list -n 1 HEAD -- <file_path>
+git checkout <deleting_commit>^ -- <file_path>

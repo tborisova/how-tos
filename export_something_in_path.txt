@@ -1,0 +1,1 @@
+add it to ~/.bash_profile ->  export PATH=$PATH:/Users/tborisova/phantomjs-1.9.1-macosx/bin

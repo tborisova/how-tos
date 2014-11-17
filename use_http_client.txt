@@ -1,0 +1,13 @@
+chrome-extension://aejoelaoggembcahagimdiliamlcdmfm/HttpClient.html
+
+content-type : html/xml
+the body is xml:
+<?xml version="1.0" encoding="UTF-8"?>
+<blacklist_request>
+<terminal_token>1cd937abf35f71854770e45cb73d8ad0dd082c0c</terminal_token>
+<card_number>4200000000000000</card_number>
+</blacklist_request>
+
+and the this: params[:blacklist_request][:terminal_token] has something.
+
+the browser will ask you for authorization

@@ -1,0 +1,1 @@
+ rspec spec/requests/payment_transactions_spec.rb -e "validates selected dates in datepicker"

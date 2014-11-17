@@ -1,0 +1,2 @@
+ /var/log/messages/syslog
+but you don't permission

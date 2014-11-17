@@ -1,0 +1,1 @@
+sh git-new-workdir existing_repository new_working_dir

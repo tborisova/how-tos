@@ -1,0 +1,5 @@
+Copy files from a local computer to a remote computer
+	scp somefile username@server:/home/username/
+
+Copy files from a remote server to your local computer
+	scp username@server:/home/username/file_name /home/local-username/file-name

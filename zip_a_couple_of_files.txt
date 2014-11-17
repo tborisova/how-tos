@@ -1,0 +1,1 @@
+zip gateways_mpis_specs -r spec/remote/mpis/ spec/remote/gateways/ spec/spec_helper.rb spec/support/gateways_helpers.rb
