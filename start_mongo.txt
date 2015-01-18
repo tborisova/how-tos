@@ -1,0 +1,2 @@
+@tsvetelina ➜  ~ rvm:(ruby-2.1.2)  sudo mongod  --port 12345  
+@tsvetelina ➜  ~ rvm:(ruby-2.1.2)  mongo --port 12345
